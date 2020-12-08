@@ -1,0 +1,191 @@
+.homebg {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.ube {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\ube.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.ube:hover {
+  filter: none;
+}
+.ube > div:hover {
+  color: white;
+}
+.cheese {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\cheese.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.cheese:hover {
+  filter: none;
+}
+.cheese > div:hover {
+  color: white;
+}
+.potato {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\potato.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.potato:hover {
+  filter: none;
+}
+.potato > div:hover {
+  color: white;
+}
+
+.mango {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\mango.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.mango:hover {
+  filter: none;
+}
+.mango > div:hover {
+  color: white;
+}
+
+.buko {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\buko.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.buko:hover {
+  filter: none;
+}
+.buko > div:hover {
+  color: white;
+}
+
+.coffee {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\coffee.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.coffee:hover {
+  filter: none;
+}
+.coffee > div:hover {
+  color: white;
+}
+
+/* iba to */
+.macaroni {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\macaroni.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.macaroni:hover {
+  filter: none;
+}
+.macaroni > div:hover {
+  color: white;
+}
+
+.bilobilo {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\bilobilo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.bilobilo:hover {
+  filter: none;
+}
+.bilobilo > div:hover {
+  color: white;
+}
+.carbonara {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\carbonara.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.carbonara:hover {
+  filter: none;
+}
+.carbonara > div:hover {
+  color: white;
+}
+
+.shanghai {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\shanghai.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.shanghai:hover {
+  filter: none;
+}
+.shanghai > div:hover {
+  color: white;
+}
+
+.graham {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\graham.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.graham:hover {
+  filter: none;
+}
+.graham > div:hover {
+  color: white;
+}
+
+.lasagna {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\lasagna.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+}
+.lasagna:hover {
+  filter: none;
+}
+.lasagna > div:hover {
+  color: white;
+}
+
+.logoimg {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\Logo1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.logoimg.go {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\Logo2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.map {
+  background-image: url("C:\Users\PC-002\desktop\project\src\images\mapa.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}

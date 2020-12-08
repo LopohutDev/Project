@@ -1,0 +1,29 @@
+@tailwind base;
+
+@tailwind components;
+
+@layer components {
+  .nav {
+    @apply fixed flex items-center justify-between w-screen h-24 p-5;
+  }
+  .nav.active {
+    @apply fixed flex items-center justify-between w-screen h-24 p-5 bg-green-500;
+  }
+  .logo {
+    @apply w-48 h-48;
+  }
+  .btn {
+    @apply w-20 h-10 mx-3 text-black bg-white rounded-xl;
+  }
+  .btn:hover {
+    @apply w-20 h-10 mx-3 text-black bg-green-400 rounded-xl;
+  }
+  .icon {
+    @apply flex items-center justify-center w-10 h-10 mx-3 text-black bg-white rounded-xl;
+  }
+  .icon:hover {
+    @apply w-10 h-10 mx-3 text-white bg-green-400 fill-current rounded-xl;
+  }
+}
+
+@tailwind utilities;
