@@ -5,7 +5,7 @@ function NavBar() {
   const [scroll, setScroll] = useState("false");
 
   const changebackground = () => {
-    if (window.scrollY >= 60) {
+    if (window.scrollY >= 96) {
       setScroll(true);
     } else {
       setScroll(false);
@@ -13,7 +13,7 @@ function NavBar() {
   };
   window.addEventListener("scroll", changebackground);
   return (
-    <div className={scroll ? "nav active" : "nav"}>
+    <div className={scroll ? "nav active z-10" : "nav z-10"}>
       <div className={scroll ? "logo logoimg" : "logo logoimg go"}></div>
       <div className="flex items-center">
         <button className="icon">

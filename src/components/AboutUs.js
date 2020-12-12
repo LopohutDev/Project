@@ -1,8 +1,10 @@
 import React from "react";
+import Team from "./layers/Team";
 function AboutUs() {
   return (
-    <div className="h-screen">
+    <div className="">
       <div className="h-24 bg-green-500"></div>
+      {/* about card */}
       <div className="flex max-w-4xl p-10 mx-auto mt-32 bg-white shadow-2xl rounded-3xl">
         <div className="w-2/3 mx-2">
           <h1 className="text-3xl font-semibold text-left">About us?</h1>
@@ -23,6 +25,8 @@ function AboutUs() {
           Our Business Location:
         </div>
       </div>
+      {/* team card */}
+      <Team />
     </div>
   );
 }

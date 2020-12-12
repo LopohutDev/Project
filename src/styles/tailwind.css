@@ -7,7 +7,7 @@
     @apply fixed flex items-center justify-between w-screen h-24 p-5;
   }
   .nav.active {
-    @apply fixed flex items-center justify-between w-screen h-24 p-5 bg-green-500;
+    @apply fixed flex items-center justify-between w-screen h-24 p-5 bg-fixed bg-green-500;
   }
   .logo {
     @apply w-48 h-48;

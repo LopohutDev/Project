@@ -9,7 +9,7 @@ function Footer() {
       <div className="flex items-center mx-10">
         <button>
           <svg
-            className="w-10 mx-3 text-white fill-current"
+            className="w-10 mx-3 text-white fill-current hover:text-green-500"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 448 512"
           >
@@ -18,7 +18,7 @@ function Footer() {
         </button>
         <button>
           <svg
-            className="w-10 mx-3 text-white fill-current"
+            className="w-10 mx-3 text-white fill-current hover:text-green-500"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 448 512"
           >
@@ -27,7 +27,7 @@ function Footer() {
         </button>
         <button>
           <svg
-            className="w-10 mx-3 text-white fill-current"
+            className="w-10 mx-3 text-white fill-current hover:text-green-500"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 448 512"
           >

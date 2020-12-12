@@ -581,6 +581,7 @@ video {
 }
 
 .nav.active {
+  background-attachment: fixed;
   --tw-bg-opacity: 1;
   background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
   display: flex;
